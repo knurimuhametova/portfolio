@@ -1,4 +1,4 @@
-# Прогнозирование оттока клиентов
+# Проект "Телекоммуникации"
  [ipynb](https://github.com/knurimuhametova/portfolio/blob/main/Telecommunications/telecomm_portfolio.ipynb)
 
 ## Описание проекта
