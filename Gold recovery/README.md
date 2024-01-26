@@ -1,5 +1,5 @@
 # Проект "Восстановление золота из руды"
-[ipynb]()
+[ipynb](https://github.com/knurimuhametova/portfolio/blob/main/Gold%20recovery/gold_recovery.ipynb)
 
 ## Описание проекта
 Компания разрабатывает решения для эффективной работы промышленных предприятий.
